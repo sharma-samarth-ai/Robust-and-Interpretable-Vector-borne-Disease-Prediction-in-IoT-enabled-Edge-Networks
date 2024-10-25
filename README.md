@@ -1,1 +1,5 @@
 # Robust-and-Interpretable-Vector-borne-Disease-Prediction-in-IoT-enabled-Edge-Networks
+
+* **Abstract**: Vector-borne diseases have created critical world- wide public health hazards that require innovative approaches for prevention and management. Within the context of IoT-enabled edge networks, this study offers a unique framework to build a reliable and straightforward distant prediction model for vector- borne diseases. The suggested strategy incorporates the use of edge computing capabilities to predict the onset and spread of diseases caused by vectors by using real-time data streams from mobile applications. Employing widely used techniques from machine learning, including interpretable models, our system not only achieves high prediction accuracy but also provides insight into the most important factors influencing the spread of disease. Moreover, this approach overcomes the resource constraints essential to edge networks, ensuring the prediction model’s dependability and scalability.
+
+* **Keywords**: Internet of Things, Disease Prediction, Mobile App, Explainable AI, Edge Networks
